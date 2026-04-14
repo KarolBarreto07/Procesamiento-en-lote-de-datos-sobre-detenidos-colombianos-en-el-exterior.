@@ -55,7 +55,7 @@ print("===DATOS ORIGINALES===")
 df.show(15)
 ```
 
-Se realiza la preparación del dataset para su análisis:
+4. Se realiza la preparación del dataset para su análisis:
 * Se renombran columnas para facilitar su uso.
 * Se eliminan valores nulos en columnas importantes.
 * Se eliminan registros duplicados.
