@@ -28,7 +28,6 @@ Esto permite trabajar con datos distribuidos y aplicar operaciones como agregaci
 # =================================================
 # 1. IMPORTAR LIBRERÍAS
 # =================================================
-```python
 from pyspark.sql import SparkSession, functions as F
 ```
 
